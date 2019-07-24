@@ -1,0 +1,17 @@
+{
+    "name": "lashu/slicedownload",
+    "description": "Specified size download",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yechunlin",
+            "email": "yechunlin@corp-ci.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Slice\\": "src/"}
+    }
+}
